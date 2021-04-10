@@ -1,0 +1,14 @@
+Madera
+Clavos
+Pegamento
+bocento
+coordenadas XYZ
+Planos
+cortadora.
+herramientas.
+mano de obra
+presupuesto 
+capital
+tutorial
+tiempo
+pintura
