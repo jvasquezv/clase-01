@@ -1,0 +1,16 @@
+Madera: ok
+Clavos: ok
+Pegamento : ok
+bocento : ok
+coordenadas XYZ: OK
+Planos;: ok
+cortadora; OK
+herramientas: para buscar
+mano de obra : gratis
+presupuesto : 500 sole
+capital : 500 soles
+tutorial
+tiempo en 3 días
+pintura de color marron
+
+
